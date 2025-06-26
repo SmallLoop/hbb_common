@@ -100,8 +100,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["m.kustar.top"];
-pub const RS_PUB_KEY: &str = "LB0ko3nu73sM8Mw+zRKFIwzNtUzrsKCzCkSuaMRTeNY=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["m.12345.xyz"];
+pub const RS_PUB_KEY: &str = "ko3nu73sM8Mw+zRKFIwzNtUzrsKCzCkSuaMRTeNY=";
 
 pub const RENDEZVOUS_PORT: i32 = 11106;
 pub const RELAY_PORT: i32 = 11107;
